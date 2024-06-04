@@ -3,6 +3,6 @@
 
 public class Main {
 	public static void main(String[] args){
-		
+	//Aqui iria un codigo de un programa	
 	}
 }
